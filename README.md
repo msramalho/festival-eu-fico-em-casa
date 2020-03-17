@@ -1,5 +1,5 @@
 # Festival Eu Fico em Casa
-Gerador de [ical](create_ical.py) (e [ical](out.txt)) para o festival [festivaleuficoemcasa](https://www.instagram.com/festivaleuficoemcasa/).
+[Gerador de ical](create_ical.py) (e [ical](out.txt)) para o festival [festivaleuficoemcasa](https://www.instagram.com/festivaleuficoemcasa/).
 
 Dados [aqui](data.txt), adaptados [daqui](https://www.comunidadeculturaearte.com/festival-eu-fico-em-casa-artistas-unem-se-para-sensibilizar-a-populacao-a-ficar-em-casa/).
 
