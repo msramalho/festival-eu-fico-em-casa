@@ -10,3 +10,4 @@ Dados [aqui](data.txt), adaptados [daqui](https://www.comunidadeculturaearte.com
 * ativar `source env/bin/activate`(linux) ou `env/Scripts/activate` (windows)
 * instalar requirements `pip install -r requirements`
 * executar `python create_ical.py`
+* profit
